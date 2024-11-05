@@ -13,3 +13,4 @@ The files provided in this project are:
 - campaign.csv
 - ERD_crowdfunding.png (ERD diagram)
 - crowdfunding_db_schema
+- ETL_Mini_Project_starter_code_HGumber (jupyter notebook with code)
